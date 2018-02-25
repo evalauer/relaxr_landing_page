@@ -1,0 +1,143 @@
+body { 
+
+font-family: Open Sans; 
+ }
+
+h1 {
+	text-align: left;
+	font-style: bold 48px;
+
+}
+
+h2 {
+	text-align: center;
+	font-weight: 600;
+	font-size: 48px;
+}
+
+
+h3 { 
+background-color: yellow;
+width: 200px;
+height: 10px;
+padding: 15px;
+border-radius: 5px;
+text-align: center;
+color: black;
+
+a { 
+color: black;
+ }
+
+ }
+
+ a:link {
+    color: #black;
+}
+
+
+.top-page {
+background-image: url("../images/header_bg.jpg");
+background-repeat: no-repeat;
+background-position: center-center;
+background-size: cover;
+width: 500px;
+padding: 100px;
+color: #fff;
+text-align: center;
+
+h4 { 
+ 	font-weight: 600;
+ 	font-size: 40px;
+
+  }
+
+}
+
+.mid-page { 
+
+background-color: #f0efef;
+background-repeat: no-repeat;
+background-position: center-center;
+background-size: cover;
+width: 500px;
+padding: 100px;
+color: #000;
+font-weight: 200;
+font-size: 26px;
+
+
+ }
+ul { 
+
+list-style: disc outside;
+
+}
+
+.quote { 
+background-image: url("../images/testimonial_bg.jpg");
+background-repeat: no-repeat;
+background-position: center-center;
+width: 500px;
+padding: 100px;
+color: #fff;
+text-align: center; 
+} 
+
+Blockquote {  
+font-weight: 200; 
+font-style: italic;
+text-align: center;
+
+
+
+ }
+
+.signup { 
+
+	background-color: #f9e42e;
+background-repeat: no-repeat;
+background-position: center-center;
+background-size: cover;
+width: 500px;
+padding: 100px;
+height: 1px;
+color: #fff;
+text-align: center; 
+
+ }
+
+a:link {
+    color: #FFF;
+}
+h5 { 
+background-color: #033048;
+width: 200px;
+height: 10px;
+padding: 15px;
+border-radius: 5px;
+text-align: center;
+color: white;
+  }
+
+ .bottom { 
+
+ 	background-color: #121212;
+background-position: center-center;
+background-size: cover;
+text-align: center;
+width: 500px;
+padding: 100px;
+color: #fff;
+
+  }
+
+  span { 
+  color: #f9e42e;
+  font-weight: 800;
+  font-size: 48px;
+
+
+}
+
+
